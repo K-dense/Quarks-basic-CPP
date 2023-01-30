@@ -1,8 +1,4 @@
 # Quark's Basic C++
-
-This repository will be divided in different projects.
-
-FIRST PROJECT:
 Secuential Programming excercises:
 
 A simple program divided into 4 smaller programs:
