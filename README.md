@@ -1,5 +1,9 @@
-# Secuential-Programming
-Quark's Secuential Programming excercises with C++
+# Quark's Basic C++
+
+This repository will be divided in different projects.
+
+FIRST PROJECT:
+Secuential Programming excercises:
 
 A simple program divided into 4 smaller programs:
 - Calculate the area of a square by inputting the size of a side.
